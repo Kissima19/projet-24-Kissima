@@ -144,6 +144,32 @@ span {
     box-shadow: 0 0 1rem var(--main-color);
 }
 
+#inputs {
+  background: #fff;
+  margin-right: 340px;
+  margin-left: 340px;
+}
+
+.content a input {
+  background: #fff;
+  margin: 2rem;
+  height: 5rem;
+  background-color: #fff;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+.content {
+  justify-content: center;
+  align-items: center;
+}
+
+.cont {
+  background: #fff;
+  margin-right: 425px;
+}
+
 .body {
     display: flex;
     justify-content: center;
